@@ -1,0 +1,107 @@
+site_name: Recetario Español
+site_description: Colección de recetas tradicionales de alta cocina española
+site_author: Javier Fernández Cabanas
+
+# Repository
+repo_url: https://github.com/javicabanas/recetario
+repo_name: recetario
+
+# Theme configuration
+theme:
+  name: material
+  language: es
+  favicon: assets/favicon.png
+  logo: assets/logo.png
+  palette:
+    # Paleta inspirada en bandera española
+    - scheme: default
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  
+  features:
+    - navigation.instant      # Carga instantánea
+    - navigation.tracking     # URL tracking
+    - navigation.tabs         # Pestañas principales
+    - navigation.sections     # Secciones colapsables
+    - navigation.top          # Botón "volver arriba"
+    - search.suggest          # Sugerencias de búsqueda
+    - search.highlight        # Resaltado en resultados
+    - content.code.copy       # Copiar bloques de código
+    - content.action.view     # Ver código fuente
+    - toc.follow              # Seguir TOC activo
+
+# Plugins
+plugins:
+  - search:
+      lang: es
+      separator: '[\s\-\.]+'
+  - print-site:
+      add_to_navigation: false
+      print_page_title: 'Versión Imprimible'
+      add_print_site_banner: false
+      enumerate_headings: false
+
+# Custom CSS for print
+extra_css:
+  - stylesheets/print.css
+  - stylesheets/extra.css
+
+# Navigation structure
+nav:
+  - Inicio: index.md
+  - Entrantes:
+    - entrantes/chilaquiles_verdes.md
+    - entrantes/salpicon-de-atun.md
+  - Principales:
+    - principales/Cochinita_Pibil.md
+    - principales/Tortilla_de_Patatas_con_Cebolla.md
+    - principales/fabas-con-bacalao.md
+    - principales/fricando.md
+    - principales/pollo_en_pepitoria.md
+  - Arroces:
+    - arroces/Paella_Marisco.md
+    - arroces/paella-valenciana-conejo-pollo.md
+  - Tapas:
+    - tapas/ensaladilla-rusa.md
+    - tapas/huevos-rellenos.md
+  - Guarniciones y Salsas:
+    - guarniciones_y_salsas/alioli_clara_huevo.md
+    - guarniciones_y_salsas/alioli_tradicional.md
+    - guarniciones_y_salsas/mojo_de_ajo_veracruzano.md
+    - guarniciones_y_salsas/mojo_de_ajo_veracruzano_v2.md
+  - Postres:
+    - postres/arroz-con-leche-asturiano.md
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/solid/utensils
+      link: https://github.com/javicabanas/recetario
+      name: Recetario en GitHub
+  
+  generator: false  # Ocultar "Made with MkDocs"

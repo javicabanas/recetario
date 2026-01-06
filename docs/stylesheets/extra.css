@@ -1,0 +1,162 @@
+/* ============================================
+   ESTILOS ADICIONALES PARA RECETARIO
+   Mejoras visuales para la experiencia digital
+   ============================================ */
+
+/* Contenedor principal más ancho para recetas */
+.md-content__inner {
+  max-width: 50rem;
+}
+
+/* Imágenes de recetas con sombra profesional */
+.md-content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  margin: 1.5rem 0;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.md-content img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Tablas de ficha técnica estilizadas */
+.md-typeset table:not([class]) {
+  border: 2px solid #c41e3a;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 1.5rem 0;
+}
+
+.md-typeset table:not([class]) th {
+  background: linear-gradient(135deg, #c41e3a 0%, #a01829 100%);
+  color: white;
+  font-weight: 600;
+  padding: 0.8rem;
+  text-align: center;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.8rem;
+  text-align: center;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.md-typeset table:not([class]) tr:last-child td {
+  border-bottom: none;
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background-color: #fef9e7;
+}
+
+/* Listas de ingredientes destacadas */
+.md-typeset ul li {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}
+
+/* Pasos de elaboración numerados */
+.md-typeset ol li {
+  margin: 1rem 0;
+  line-height: 1.6;
+  padding-left: 0.5rem;
+}
+
+.md-typeset ol li::marker {
+  color: #c41e3a;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+/* Notas del chef con estilo distintivo */
+.md-typeset .admonition {
+  border-left: 4px solid #c41e3a;
+  background-color: #fff9f0;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.md-typeset .admonition-title {
+  color: #c41e3a;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+
+.md-typeset .admonition-title::before {
+  content: "👨‍🍳";
+  margin-right: 0.5rem;
+  font-size: 1.2em;
+}
+
+/* Títulos de receta con estilo español */
+.md-typeset h1 {
+  color: #c41e3a;
+  border-bottom: 3px solid #ffc107;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.md-typeset h2 {
+  color: #333;
+  border-left: 4px solid #c41e3a;
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+
+/* Introducción de receta */
+.md-typeset > p:first-of-type {
+  font-style: italic;
+  color: #555;
+  border-left: 3px solid #ffc107;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  background-color: #fffef7;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+/* Botón flotante de impresión */
+.md-content__button.md-icon {
+  background-color: #c41e3a;
+  color: white;
+  border-radius: 50%;
+  padding: 0.8rem;
+  transition: all 0.3s ease;
+}
+
+.md-content__button.md-icon:hover {
+  background-color: #a01829;
+  transform: scale(1.1);
+}
+
+/* Mejoras para navegación de categorías */
+.md-nav__item--active > .md-nav__link {
+  color: #c41e3a;
+  font-weight: 600;
+}
+
+.md-nav__link:hover {
+  color: #c41e3a;
+}
+
+/* Responsivo: móviles */
+@media screen and (max-width: 768px) {
+  .md-content__inner {
+    padding: 1rem;
+  }
+  
+  .md-content img {
+    margin: 1rem 0;
+  }
+  
+  .md-typeset table:not([class]) {
+    font-size: 0.9em;
+  }
+}

@@ -1,0 +1,184 @@
+/* ============================================
+   ESTILOS PERSONALIZADOS PARA IMPRESIÓN
+   Optimizado para recetas de cocina profesional
+   ============================================ */
+
+@media print {
+  /* Ocultar elementos de navegación */
+  header,
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-content__button,
+  .md-top,
+  nav.md-nav {
+    display: none !important;
+  }
+
+  /* Contenido principal a ancho completo */
+  .md-content {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .md-content__inner {
+    margin: 0 !important;
+    padding: 1cm !important;
+  }
+
+  /* Tipografía optimizada para impresión */
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #000;
+    background: white;
+  }
+
+  h1 {
+    font-size: 22pt;
+    margin-top: 0;
+    margin-bottom: 0.5cm;
+    page-break-after: avoid;
+    border-bottom: 2px solid #000;
+    padding-bottom: 0.3cm;
+  }
+
+  h2 {
+    font-size: 16pt;
+    margin-top: 0.8cm;
+    margin-bottom: 0.4cm;
+    page-break-after: avoid;
+    border-bottom: 1px solid #666;
+  }
+
+  h3 {
+    font-size: 13pt;
+    margin-top: 0.5cm;
+    margin-bottom: 0.3cm;
+    page-break-after: avoid;
+  }
+
+  /* Tablas profesionales */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5cm 0;
+    page-break-inside: avoid;
+  }
+
+  th {
+    background-color: #f0f0f0 !important;
+    border: 1px solid #000;
+    padding: 0.3cm;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  td {
+    border: 1px solid #666;
+    padding: 0.3cm;
+  }
+
+  /* Imágenes */
+  img {
+    max-width: 100%;
+    height: auto;
+    page-break-inside: avoid;
+    margin: 0.5cm 0;
+    border: 1px solid #ddd;
+  }
+
+  /* Listas */
+  ul, ol {
+    margin: 0.3cm 0;
+    padding-left: 1cm;
+  }
+
+  li {
+    margin: 0.2cm 0;
+    page-break-inside: avoid;
+  }
+
+  /* Notas del chef y admonitions */
+  .admonition {
+    border: 1px solid #000;
+    padding: 0.3cm;
+    margin: 0.5cm 0;
+    page-break-inside: avoid;
+    background-color: #f9f9f9 !important;
+  }
+
+  .admonition-title {
+    font-weight: bold;
+    margin-bottom: 0.2cm;
+  }
+
+  /* Saltos de página inteligentes */
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  img, table, .admonition {
+    page-break-inside: avoid;
+  }
+
+  /* Evitar líneas huérfanas y viudas */
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Enlaces */
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  a[href]:after {
+    content: none !important; /* No mostrar URLs en impresión */
+  }
+
+  /* Números de página */
+  @page {
+    margin: 2cm;
+    @bottom-right {
+      content: counter(page);
+    }
+  }
+
+  /* Primera página sin número */
+  @page :first {
+    @bottom-right {
+      content: none;
+    }
+  }
+}
+
+/* ============================================
+   ESTILOS PARA VISTA DE PANTALLA
+   ============================================ */
+
+/* Botón de impresión visible */
+@media screen {
+  .print-button {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: #c41e3a;
+    color: white;
+    padding: 1rem 1.5rem;
+    border-radius: 50px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    cursor: pointer;
+    z-index: 1000;
+    transition: all 0.3s ease;
+  }
+
+  .print-button:hover {
+    background: #a01829;
+    box-shadow: 0 6px 8px rgba(0,0,0,0.3);
+    transform: translateY(-2px);
+  }
+}
