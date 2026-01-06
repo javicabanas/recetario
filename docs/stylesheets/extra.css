@@ -8,6 +8,38 @@
   max-width: 50rem;
 }
 
+/* Botón de impresión flotante */
+.print-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: #c41e3a;
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 50px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  z-index: 1000;
+  transition: all 0.3s ease;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.print-button:hover {
+  background: #a01829;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+  transform: translateY(-2px);
+}
+
+.print-button::before {
+  content: "🖨️";
+  font-size: 1.2rem;
+}
+
 /* Imágenes de recetas con sombra profesional */
 .md-content img {
   border-radius: 8px;

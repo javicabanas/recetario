@@ -36,7 +36,6 @@ theme:
     - search.suggest          # Sugerencias de búsqueda
     - search.highlight        # Resaltado en resultados
     - content.code.copy       # Copiar bloques de código
-    - content.action.view     # Ver código fuente
     - toc.follow              # Seguir TOC activo
 
 # Plugins
@@ -44,16 +43,15 @@ plugins:
   - search:
       lang: es
       separator: '[\s\-\.]+'
-  - print-site:
-      add_to_navigation: false
-      print_page_title: 'Versión Imprimible'
-      add_print_site_banner: false
-      enumerate_headings: false
 
 # Custom CSS for print
 extra_css:
   - stylesheets/print.css
   - stylesheets/extra.css
+
+# Custom JavaScript
+extra_javascript:
+  - javascripts/print.js
 
 # Navigation structure
 nav:
