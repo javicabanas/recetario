@@ -2,7 +2,7 @@
 
 ### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
-**Total de recetas:** 16
+**Total de recetas:** 17
 
 ---
 
@@ -36,6 +36,12 @@
 
 - [Paella de Marisco](arroces/Paella_Marisco.md) - 45-50 min | 1 pax
 - [Paella Valenciana de Conejo y Pollo](arroces/paella-valenciana-conejo-pollo.md) - 1h 15 min | 10 pax
+
+---
+
+## 🍹 Bebidas
+
+- [Negroni](bebidas/negroni.md) - 5 min | 1 pax
 
 ---
 
