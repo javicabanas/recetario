@@ -1,6 +1,6 @@
-# 🍽️ Recetario Español
+# 🍽️ Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
-Bienvenido a esta colección de **recetas tradicionales de alta cocina española**, con influencias mexicanas y un enfoque técnico profesional.
+Bienvenido a esta colección de **recetas tradicionales de alta cocina española**, con influencias mexicanas y un enfoque técnico profesional. Un legado culinario que reúne las tradiciones de las familias Espíndola, Serrano y Fernández Cabanas.
 
 ---
 

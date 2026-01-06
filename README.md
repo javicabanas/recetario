@@ -1,4 +1,4 @@
-# 📚 Recetario Español - Guía de Configuración
+# 📚 Recetario Familiar Espíndola-Serrano-Fernández Cabanas - Guía de Configuración
 
 Sistema de publicación automatizada de recetas usando MkDocs Material + GitHub Pages.
 

@@ -1,4 +1,4 @@
-# 📚 Recetario Español - Índice Maestro
+# 📚 Recetario Familiar Espíndola-Serrano-Fernández Cabanas - Índice Maestro
 
 **Total de recetas:** 16
 
