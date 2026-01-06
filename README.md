@@ -1,4 +1,6 @@
-# 📚 Recetario Familiar Espíndola-Serrano-Fernández Cabanas - Guía de Configuración
+# 📚 Sabores de Familia - Guía de Configuración
+
+### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
 Sistema de publicación automatizada de recetas usando MkDocs Material + GitHub Pages.
 

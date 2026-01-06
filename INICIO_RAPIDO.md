@@ -1,4 +1,6 @@
-# 🚀 INICIO RÁPIDO - Recetario MkDocs
+# 🚀 INICIO RÁPIDO - Sabores de Familia
+
+### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
 ## ⏱️ Configuración en 5 Minutos
 

@@ -1,4 +1,6 @@
-# 📚 Recetario Familiar Espíndola-Serrano-Fernández Cabanas - Índice Maestro
+# 📚 Sabores de Familia
+
+### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
 **Total de recetas:** 16
 
