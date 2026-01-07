@@ -106,7 +106,7 @@ El dulce final que cierra cualquier comida con elegancia.
 | Arroces | 2 |
 | Tapas | 2 |
 | Guarniciones y Salsas | 4 |
-| Bebidas | 1 |
+| Bebidas | 2 |
 | Postres | 1 |
 | **Total** | **16** |
 
