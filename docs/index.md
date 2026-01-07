@@ -72,10 +72,11 @@ Acompañamientos y bases fundamentales de la cocina mediterránea.
 
 ---
 
-### 🍹 Bebidas (1 receta)
+### 🍹 Bebidas (2 recetas)
 
 Cócteles clásicos y aperitivos para acompañar cualquier celebración.
 
+- [Aperol Spritz](bebidas/aperol_spritz.md) - 3 min | 1 copa
 - [Negroni](bebidas/negroni.md) - 5 min | 1 pax
 
 ---
