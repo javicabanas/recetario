@@ -2,7 +2,7 @@
 
 ### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
-**Total de recetas:** 21
+**Total de recetas:** 22
 
 ---
 
@@ -46,6 +46,7 @@
 - [Bloody Mary](bebidas/bloody_mary.md) - 8 min | 1 copa
 - [Margarita](bebidas/margarita.md) - 5 min | 1 copa
 - [Negroni](bebidas/negroni.md) - 5 min | 1 pax
+- [Piñada](bebidas/pinada.md) - 15 min | 4 vasos
 
 ---
 

@@ -8,7 +8,7 @@ Bienvenido a esta colección de **recetas tradicionales de cocina española y co
 
 ## 📖 Sobre este Recetario
 
-Este recetario digital es una compilación de **21 recetas** cuidadosamente documentadas, diseñadas para preservar la autenticidad de la gastronomía española y facilitar su reproducción en cualquier cocina.
+Este recetario digital es una compilación de **22 recetas** cuidadosamente documentadas, diseñadas para preservar la autenticidad de la gastronomía española y facilitar su reproducción en cualquier cocina.
 
 ### ✨ Características
 
@@ -73,14 +73,15 @@ Acompañamientos y bases fundamentales de la cocina mediterránea.
 
 ---
 
-### 🍹 Bebidas (4 recetas)
+### 🍹 Bebidas (5 recetas)
 
-Cócteles clásicos y aperitivos para acompañar cualquier celebración.
+Cócteles clásicos y bebidas tradicionales para acompañar cualquier celebración.
 
 - [Aperol Spritz](bebidas/aperol_spritz.md) - 3 min | 1 copa
 - [Bloody Mary](bebidas/bloody_mary.md) - 8 min | 1 copa
 - [Margarita](bebidas/margarita.md) - 5 min | 1 copa
 - [Negroni](bebidas/negroni.md) - 5 min | 1 pax
+- [Piñada](bebidas/pinada.md) - 15 min | 4 vasos
 
 ---
 
@@ -110,9 +111,9 @@ El dulce final que cierra cualquier comida con elegancia.
 | Arroces | 2       |
 | Tapas | 2       |
 | Guarniciones y Salsas | 4       |
-| Bebidas | 4       |
+| Bebidas | 5       |
 | Postres | 1       |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ---
 
