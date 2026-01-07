@@ -11,7 +11,7 @@ from pathlib import Path
 # Configuración
 BASE_DIR = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Recetario"
 DOCS_DIR = BASE_DIR / "docs"
-CATEGORIAS = ["entrantes", "principales", "arroces", "tapas", "guarniciones_y_salsas", "postres"]
+CATEGORIAS = ["entrantes", "principales", "arroces", "tapas", "guarniciones_y_salsas", "postres", "bebidas"]
 
 def sync_recetas():
     """Sincroniza recetas e imágenes a estructura docs/"""
