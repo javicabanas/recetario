@@ -2,7 +2,7 @@
 
 ### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
-**Total de recetas:** 19
+**Total de recetas:** 20
 
 ---
 
@@ -43,6 +43,7 @@
 ## 🍹 Bebidas
 
 - [Aperol Spritz](bebidas/aperol_spritz.md) - 3 min | 1 copa
+- [Margarita](bebidas/margarita.md) - 5 min | 1 copa
 - [Negroni](bebidas/negroni.md) - 5 min | 1 pax
 
 ---

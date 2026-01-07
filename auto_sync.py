@@ -19,6 +19,7 @@ CATEGORIAS = {
     "arroces": "🍚 Arroces",
     "tapas": "🍷 Tapas",
     "guarniciones_y_salsas": "🥫 Guarniciones y Salsas",
+    "bebidas": "🍹 Bebidas",
     "postres": "🍰 Postres"
 }
 

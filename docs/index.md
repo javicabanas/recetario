@@ -2,17 +2,17 @@
 
 ### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
-Bienvenido a esta colección de **recetas tradicionales de cocina española**, con influencias mexicanas y un enfoque técnico profesional. Un legado culinario que reúne las tradiciones de las familias Espíndola, Serrano y Fernández Cabanas.
+Bienvenido a esta colección de **recetas tradicionales de cocina española y cocina mexicana**. Un legado culinario que reúne las tradiciones de las familias Espíndola, Serrano y Fernández Cabanas.
 
 ---
 
 ## 📖 Sobre este Recetario
 
-Este recetario digital es una compilación de **17 recetas** cuidadosamente documentadas, diseñadas para preservar la autenticidad de la gastronomía española y facilitar su reproducción en cualquier cocina.
+Este recetario digital es una compilación de **20 recetas** cuidadosamente documentadas, diseñadas para preservar la autenticidad de la gastronomía española y facilitar su reproducción en cualquier cocina.
 
 ### ✨ Características
 
-- **Técnica profesional:** Instrucciones detalladas con terminología de Chef Ejecutivo
+- **Técnica tradicional:** Instrucciones detalladas con terminología culinaria precisa
 - **Fichas técnicas completas:** Tiempos, dificultad y porciones claramente especificados
 - **Notas del chef:** Consejos técnicos, puntos críticos y maridajes recomendados
 - **Adaptado a 2100 msnm:** Recetas ajustadas para cocción en altitud
@@ -73,11 +73,12 @@ Acompañamientos y bases fundamentales de la cocina mediterránea.
 
 ---
 
-### 🍹 Bebidas (2 recetas)
+### 🍹 Bebidas (3 recetas)
 
 Cócteles clásicos y aperitivos para acompañar cualquier celebración.
 
 - [Aperol Spritz](bebidas/aperol_spritz.md) - 3 min | 1 copa
+- [Margarita](bebidas/margarita.md) - 5 min | 1 copa
 - [Negroni](bebidas/negroni.md) - 5 min | 1 pax
 
 ---
@@ -108,9 +109,9 @@ El dulce final que cierra cualquier comida con elegancia.
 | Arroces | 2       |
 | Tapas | 2       |
 | Guarniciones y Salsas | 4       |
-| Bebidas | 2       |
+| Bebidas | 3       |
 | Postres | 1       |
-| **Total** | **17** |
+| **Total** | **20** |
 
 ---
 

@@ -2,7 +2,7 @@
 
 ![Imagen](./imagenes/torta_de_milanesa.jpg)
 
-Icónico sándwich mexicano que combina una milanesa de res ultra crujiente con bolillo fresco, frijoles refritos, aguacate y chiles en vinagre. Versión tlaxcalteca caracterizada por su milanesa delgada y bien sazonada, y el uso generoso de papalo quelite cuando está en temporada. Este platillo representa la cocina popular mexicana de alto rendimiento: económico, contundente y lleno de sabor.
+Icónico sándwich mexicano que combina una milanesa de res ultra crujiente con bolillo fresco, frijoles refritos, aguacate y chiles en vinagre. La versión tlaxcalteca se distingue por su milanesa delgada y perfectamente sazonada, el uso de bolillo artesanal recién horneado, y el equilibrio entre ingredientes frescos. Este platillo representa la cocina popular mexicana: económico, contundente y lleno de sabor.
 
 | Tiempo | Dificultad | Raciones |
 | :--- | :--- | :--- |
@@ -29,7 +29,6 @@ Icónico sándwich mexicano que combina una milanesa de res ultra crujiente con 
 * 2 pzas Jitomate saladette (rebanadas delgadas)
 * 100 g Cebolla blanca (rebanadas delgadas)
 * 8-12 pzas Chiles jalapeños en escabeche
-* 1 manojo Papalo quelite (opcional, según temporada)
 * 100 ml Mayonesa
 * 80 ml Crema ácida mexicana
 * Sal de grano y pimienta negra al gusto
@@ -48,7 +47,7 @@ Icónico sándwich mexicano que combina una milanesa de res ultra crujiente con 
 
 4. **Preparación del bolillo:** Corta los bolillos horizontalmente sin separar completamente. Retira un poco de migajón del interior para crear espacio. Tuesta ligeramente las caras internas en comal o sartén seca (30 segundos) para sellar y evitar que se empapen.
 
-5. **Montaje estructurado:** Unta la base inferior con frijoles refritos calientes. Coloca la milanesa (puedes cortarla en diagonal para mejor ajuste). Sobre la milanesa: aguacate machacado con sal y limón, lechuga juliana, jitomate, cebolla, chiles jalapeños al gusto, y papalo quelite si está disponible. En la tapa superior: mezcla de mayonesa y crema (2:1). Cierra y presiona ligeramente.
+5. **Montaje estructurado:** Unta la base inferior con frijoles refritos calientes. Coloca la milanesa (puedes cortarla en diagonal para mejor ajuste). Sobre la milanesa: aguacate machacado con sal y limón, lechuga juliana, jitomate, cebolla y chiles jalapeños al gusto. En la tapa superior: mezcla de mayonesa y crema (2:1). Cierra y presiona ligeramente.
 
 6. **Sellado final:** Pasa la torta armada por el comal o plancha caliente 30 segundos por lado para compactar y calentar uniformemente. Corta en diagonal para servir.
 
@@ -56,11 +55,13 @@ Icónico sándwich mexicano que combina una milanesa de res ultra crujiente con 
 
 * **Carne ideal:** Bola de res o aguayón son cortes magros que funcionan mejor que bistec de palomilla. Pide en carnicería que corten "bistec para milanesa" (3-4 mm de grosor).
 
+* **Variantes de proteína:** Aunque la res es la más tradicional en el centro de México, la torta de milanesa también se prepara con pollo (pechuga aplanada) o cerdo (maciza o lomo). Todas son igualmente populares en torterías. Ajusta el tiempo de fritura: pollo 3-4 min/lado, cerdo 4-5 min/lado.
+
 * **Punto crítico del empanizado:** El reposo de 5 minutos después de empanar es crucial. Si fríes inmediatamente, el empanizado se desprende. La harina hace de "pegamento" entre carne y huevo, el huevo entre pan molido y proteína.
 
 * **Control de temperatura del aceite:** 180°C es el sweet spot. Más bajo = milanesa grasosa; más alto = empanizado quemado con carne cruda. Invierte en termómetro de fritura o usa método del pan.
 
-* **Variante tlaxcalteca auténtica:** El papalo quelite es distintivo de la región centro de México. Tiene sabor intenso similar al cilantro pero más cítrico/herbáceo. Si no consigues, usa cilantro + hojas de rábano picadas.
+* **Torta vs Cemita:** No confundir con la cemita poblana. La torta de milanesa usa bolillo o telera y lleva lechuga, jitomate, cebolla y chiles jalapeños. La cemita poblana usa pan con ajonjolí y su ingrediente distintivo es el pápalo quelite (hierba aromática de Puebla), además de quesillo Oaxaca y chipotles en adobo.
 
 * **Error frecuente:** Sobrecarga de ingredientes. La clave es equilibrio: la milanesa debe ser protagonista, no perderse entre exceso de vegetales.
 
