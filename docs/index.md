@@ -8,7 +8,7 @@ Bienvenido a esta colección de **recetas tradicionales de cocina española**, c
 
 ## 📖 Sobre este Recetario
 
-Este recetario digital es una compilación de **16 recetas** cuidadosamente documentadas, diseñadas para preservar la autenticidad de la gastronomía española y facilitar su reproducción en cualquier cocina.
+Este recetario digital es una compilación de **17 recetas** cuidadosamente documentadas, diseñadas para preservar la autenticidad de la gastronomía española y facilitar su reproducción en cualquier cocina.
 
 ### ✨ Características
 
@@ -31,7 +31,7 @@ Platos de apertura que despiertan el apetito con sabores vibrantes.
 
 ---
 
-### 🍖 Principales (5 recetas)
+### 🍖 Principales (6 recetas)
 
 El corazón del menú: platos contundentes de la tradición española y mexicana.
 
@@ -39,6 +39,7 @@ El corazón del menú: platos contundentes de la tradición española y mexicana
 - [Fabas con Bacalao](principales/fabas-con-bacalao.md) - 2h 30 min (+ remojo)
 - [Fricandó](principales/fricando.md) - 2h 30 min | 4 pax
 - [Pollo en Pepitoria](principales/pollo_en_pepitoria.md) - 90 min | 4-6 pax
+- [Torta de Milanesa Estilo Tlaxcala](principales/torta_de_milanesa.md) - 35 min | 4 pax
 - [Tortilla de Patatas con Cebolla](principales/Tortilla_de_Patatas_con_Cebolla.md) - 45 min | 4 pax
 
 ---
@@ -103,13 +104,13 @@ El dulce final que cierra cualquier comida con elegancia.
 | Categoría | Recetas |
 |-----------|---------|
 | Entrantes | 2 |
-| Principales | 5 |
+| Principales | 6 |
 | Arroces | 2 |
 | Tapas | 2 |
 | Guarniciones y Salsas | 4 |
 | Bebidas | 2 |
 | Postres | 1 |
-| **Total** | **16** |
+| **Total** | **17** |
 
 ---
 

@@ -2,7 +2,7 @@
 
 ### Recetario Familiar Espíndola-Serrano-Fernández Cabanas
 
-**Total de recetas:** 18
+**Total de recetas:** 19
 
 ---
 
@@ -28,6 +28,7 @@
 - [Fabas con Bacalao](principales/fabas-con-bacalao.md) - 2h 30 min (+ remojo)
 - [Fricandó](principales/fricando.md) - 2h 30 min | 4 pax
 - [Pollo en Pepitoria](principales/pollo_en_pepitoria.md) - 90 min | 4-6 pax
+- [Torta de Milanesa Estilo Tlaxcala](principales/torta_de_milanesa.md) - 35 min | 4 pax
 - [Tortilla de Patatas con Cebolla](principales/Tortilla_de_Patatas_con_Cebolla.md) - 45 min | 4 pax
 
 ---
