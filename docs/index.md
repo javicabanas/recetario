@@ -103,13 +103,13 @@ El dulce final que cierra cualquier comida con elegancia.
 
 | Categoría | Recetas |
 |-----------|---------|
-| Entrantes | 2 |
-| Principales | 6 |
-| Arroces | 2 |
-| Tapas | 2 |
-| Guarniciones y Salsas | 4 |
-| Bebidas | 2 |
-| Postres | 1 |
+| Entrantes | 2       |
+| Principales | 6       |
+| Arroces | 2       |
+| Tapas | 2       |
+| Guarniciones y Salsas | 4       |
+| Bebidas | 2       |
+| Postres | 1       |
 | **Total** | **17** |
 
 ---

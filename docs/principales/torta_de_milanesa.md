@@ -1,5 +1,7 @@
 # Torta de Milanesa Estilo Tlaxcala
 
+![Imagen](./imagenes/torta_de_milanesa.jpg)
+
 Icónico sándwich mexicano que combina una milanesa de res ultra crujiente con bolillo fresco, frijoles refritos, aguacate y chiles en vinagre. Versión tlaxcalteca caracterizada por su milanesa delgada y bien sazonada, y el uso generoso de papalo quelite cuando está en temporada. Este platillo representa la cocina popular mexicana de alto rendimiento: económico, contundente y lleno de sabor.
 
 | Tiempo | Dificultad | Raciones |
